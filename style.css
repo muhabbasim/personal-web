@@ -11,6 +11,8 @@ html {
   font-size: 10px;
   font-family: montserrat, sans-serif;
   scroll-behavior: smooth;
+  overflow-x: hidden;
+
 }
 a {
   text-decoration: none;
