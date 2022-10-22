@@ -711,10 +711,10 @@ p {
     justify-content: space-around;
     flex-direction: column;
     position: absolute;
-    right: 0%;
-    top: 55px;
-    width: 50%;
-    height: 722px;
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 750px;
     background-color: rgb(87, 86, 86);
     transform: translateX(100%);
     transition: 0.3s ease-in;
